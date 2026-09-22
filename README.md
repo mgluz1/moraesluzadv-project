@@ -2,7 +2,7 @@
 
 Site institucional do escritório **Moraes Luz Advocacia & Assessoria Jurídica**, de Goiânia (GO).
 
-🔗 **No ar:** [moraesluzadvocacia.netlify.app](https://moraesluzadvocacia.netlify.app)
+🔗 **No ar:** [moraesluzadvocacia.netlify.app](https://moraesluzadv.com)
 
 ## Stack
 
